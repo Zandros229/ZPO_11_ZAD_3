@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="zpo_11_zad_3,ZPO_11_ZAD_3" />
+  </component>
+</project>
